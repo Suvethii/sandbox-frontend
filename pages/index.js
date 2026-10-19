@@ -11,7 +11,7 @@ export default function Home() {
       </Head>
 
       <main>
-                <Header title="💥 BROKEN DEPLOY 💥" />
+        <Header title="Suvethii's DevOps Sandbox" />
         <p className="description">
           Get started by editing <code>pages/index.js</code>
         </p>
